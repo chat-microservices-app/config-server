@@ -1,4 +1,4 @@
-package com.chatapp.configserver;
+package com.chatapp.configservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
